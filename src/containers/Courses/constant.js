@@ -1,0 +1,5 @@
+export const actionTypes = {
+    LOAD_COURSES: 'LOAD_COURSES',
+    CHANGE_THEME: 'CHANGE_THEME',
+    LOAD_COURSES_SUCCESS: 'LOAD_COURSES_SUCCESS',
+};
